@@ -1,1 +1,1 @@
-# building-interactive-javascript-websites
+# Building Interactive Javascript Websites | Codecademy Projects
